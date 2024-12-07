@@ -238,16 +238,16 @@ navbar_fixed = false
 
 ```toml
 description = "This is meta description"
-author = "Themefisher"
+author = "Shipon Singh"
 image = "images/logo.png"
 ```
 
 - **Contact Info**: Provide your contact details.
 
 ```toml
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@email.com"
+address = "9253 Khulna Dhaka Bangladesh"
+whatsapp = "+1 (347) 829-5675"
+email = "contact@shiponsingh.com"
 ```
 
 - **Search**: Enable or disable the search feature.
