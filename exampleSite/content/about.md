@@ -1,6 +1,6 @@
 ---
-title: "About The Author"
-description: "this is meta-description"
+title: "About Us"
+description: "Know About Us"
 image: "images/author.png"
 layout: "about"
 draft: false
